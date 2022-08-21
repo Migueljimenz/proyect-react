@@ -1,0 +1,14 @@
+#formulario{
+  margin:auto;
+  width:30%;
+  border: 2px solid grey;
+  padding:10px;
+  border-radius:10px;
+ 
+}
+
+#textArea{
+  resize: none;
+  overflow: scroll;
+}
+
